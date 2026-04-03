@@ -1,2 +1,4 @@
 # Bookshop
-An online Bookshop Systems
+The Book Shopping System is designed to provide an easy and efficient way for customers to browse, search, and purchase books online or through a desktop application. The system offers a user-friendly interface that allows users to explore books by title, author, category, or price, and view detailed information about each book before making a purchase.
+Registered users can create accounts, add books to a shopping cart, and place orders securely. The system manages the entire sales process, from order placement to payment and delivery tracking. For administrators, it provides tools to add, update, or remove books, manage stock levels, and monitor sales performance.
+Additionally, the application includes features such as search filters, order history, and reporting, helping both customers and administrators access relevant information quickly.
